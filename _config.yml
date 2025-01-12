@@ -27,7 +27,7 @@ author:
   bio              : "Machine Learning Associate @ Vector Institute | MScAC AI @ University of Toronto | Deep Learning researcher"
   location         : "Toronto, Ontario, Canada"
   employer         : "University of Toronto"
-  uri              : "https://ca2528357431.github.io/" # URL
+  # uri              : "https://ca2528357431.github.io/" # URL
   email            : "ca15546466860@126.com" 
 
   # Academic websites
