@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning Associate @ Vector Institute | MScAC AI @ University of Toronto | Deep Learning researcher"
   location         : "Toronto, Ontario, Canada"
-  employer         : "Red Brick University"
+  employer         : "University of Toronto"
   uri              : "https://ca2528357431.github.io/" # URL
   email            : "ca15546466860@126.com" 
 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/CA2528357431"
+  github           : "CA2528357431"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/ancaoai/"
+  linkedin         : "ancaoai"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
