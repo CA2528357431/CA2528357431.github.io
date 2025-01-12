@@ -17,7 +17,7 @@ author_profile: true
   - Introduced a student-teacher framework to improve the learning capability, reaching 14.32 in MSE and 39.96 in PSNR
 
 ## LisaCLIP
-- **Title**: *LisaCLIP: Locally Incremental Semantics Adaptation towards Zero-shot Text-driven Image Synthesis*  
+- **Title**: [*LisaCLIP: Locally Incremental Semantics Adaptation towards Zero-shot Text-driven Image Synthesis*](https://ieeexplore.ieee.org/document/10191516)
 - **Status**: Accepted by IJCNN (Oral)
 - **Role**: Project Leader, First Author  
 - **Timeline**: Sep 2022 – Feb 2023  
