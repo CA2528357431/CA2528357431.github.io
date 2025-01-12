@@ -12,7 +12,7 @@ title                    : "An Cao"
 title_separator          : "-"
 name                     : &name "An Cao's Personal Page"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ca2528357431.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "An Cao"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning Associate @ Vector Institute | Student of MScAC (AI) @ University of Toronto | Deep Learning researcher"
+  bio              : "Machine Learning Associate @ Vector Institute | MScAC AI @ University of Toronto | Deep Learning researcher"
   location         : "Toronto, Ontario, Canada"
   employer         : "Red Brick University"
-  uri              : # URL
+  uri              : "https://ca2528357431.github.io/" # URL
   email            : "ca15546466860@126.com" 
 
   # Academic websites
