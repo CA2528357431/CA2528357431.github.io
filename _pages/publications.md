@@ -1,10 +1,8 @@
 ---
 layout: archive
-title: Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 # Diff-STAR 
