@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 
-<iframe src="../files/An_Cao_Resume.pdf" width="450" height="600"></iframe>
+<iframe src="../files/An_Cao_Resume.pdf" width="500" height="700"></iframe>
 
