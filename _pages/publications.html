@@ -5,32 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+# Diff-STAR 
+- **Title**: *Diff-STAR: Exploring Student-Teacher Adaptive Reconstruction through Diffusion-based Generation for Image Harmonization* 
+- **Status**: Accepted by IMAVIS (SCI Q1)
+- **Role**: Project Leader, First Author  
+- **Timeline**: Sep 2023 – Aug 2024   
+- **Keypoints**:
+  - Designed a novel image harmonization framework by integrating Transformers and Diffusion
+  - Utilized latent variables of the forward diffusion process rather than pixels to accelerate image harmonization
+  - Incorporated an adaptive patch masking mechanism to focus on semantically important area of input images
+  - Introduced a student-teacher framework to improve the learning capability, reaching 14.32 in MSE and 39.96 in PSNR
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
+# LisaCLIP
+- **Title**: *LisaCLIP: Locally Incremental Semantics Adaptation towards Zero-shot Text-driven Image Synthesis*  
+- **Status**: Accepted by IJCNN (Oral)
+- **Role**: Project Leader, First Author  
+- **Timeline**: Sep 2022 – Feb 2023  
+- **Keypoints**:
+  - Designed a progressive patch size shrinking strategy to stabilize the semantics of a patch’s CLIP embedding
+  - Proposed adaptive patch selection to make the model concentrate on the area with key semantics for the manipulation
+  - Implemented learning objectives decoupling which allows the model to manipulate images without pretraining
 
 
