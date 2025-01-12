@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Diff-STAR 
-- **Title**: *Diff-STAR: Exploring Student-Teacher Adaptive Reconstruction through Diffusion-based Generation for Image Harmonization* 
+## Diff-STAR 
+- **Title**: [*Diff-STAR: Exploring Student-Teacher Adaptive Reconstruction through Diffusion-based Generation for Image Harmonization*](https://www.sciencedirect.com/science/article/abs/pii/S0262885624003597)
 - **Status**: Accepted by IMAVIS (SCI Q1)
 - **Role**: Project Leader, First Author  
 - **Timeline**: Sep 2023 – Aug 2024   
@@ -16,7 +16,7 @@ author_profile: true
   - Incorporated an adaptive patch masking mechanism to focus on semantically important area of input images
   - Introduced a student-teacher framework to improve the learning capability, reaching 14.32 in MSE and 39.96 in PSNR
 
-# LisaCLIP
+## LisaCLIP
 - **Title**: *LisaCLIP: Locally Incremental Semantics Adaptation towards Zero-shot Text-driven Image Synthesis*  
 - **Status**: Accepted by IJCNN (Oral)
 - **Role**: Project Leader, First Author  
