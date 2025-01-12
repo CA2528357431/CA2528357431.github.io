@@ -8,7 +8,8 @@ author_profile: true
 ## Diff-STAR 
 - **Title**: [*Diff-STAR: Exploring Student-Teacher Adaptive Reconstruction through Diffusion-based Generation for Image Harmonization*](https://www.sciencedirect.com/science/article/abs/pii/S0262885624003597)
 - **Status**: Accepted by IMAVIS (SCI Q1)
-- **Role**: Project Leader, First Author  
+- **Role**: Project Leader, First Author
+- **Authors**: An Cao, Gang Shen 
 - **Timeline**: Sep 2023 – Aug 2024   
 - **Keypoints**:
   - Designed a novel image harmonization framework that integrate Transformer and Diffusion
@@ -20,6 +21,7 @@ author_profile: true
 - **Title**: [*LisaCLIP: Locally Incremental Semantics Adaptation towards Zero-shot Text-driven Image Synthesis*](https://ieeexplore.ieee.org/document/10191516)
 - **Status**: Accepted by IJCNN (Oral)
 - **Role**: Project Leader, First Author  
+- **Authors**: An Cao, Yilin Zhou, Gang Shen 
 - **Timeline**: Sep 2022 – Feb 2023  
 - **Keypoints**:
   - Introduced a progressive patch size shrinking strategy to stabilize the semantics of a patch’s CLIP embedding
