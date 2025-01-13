@@ -54,4 +54,5 @@ author_profile: true
   - Algorithm
   - Data Structure
   - Object-oriented Programming
+  - Agile Development
 
