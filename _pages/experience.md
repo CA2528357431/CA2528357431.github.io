@@ -18,7 +18,7 @@ author_profile: true
 
 ### Project: DiligenceGPT
 
-- **Duration**: 2025.01 - Present**
+- **Duration**: 2025.01 - Present
 - **Keypoints**:
   - Developed a Data Retrieval module to extract information from structured and unstructured data in different formats
   - Prototyped an AI-driven agent to output insights into the value of startups and draft due diligence reports
@@ -27,7 +27,7 @@ author_profile: true
 
 ### Project: Conversational Audience Builder for Synthetic Society
 
-- **Duration**: 2024.09 - 2024.12**
+- **Duration**: 2024.09 - 2024.12
 - **Keypoints**:
   - Designed the project framework, including Attributed Recommendation and Conversational Search Guidance
   - Implemented Vector Search, Query Decomposition and Dynamic Sub-query to improve the recall to 89%
