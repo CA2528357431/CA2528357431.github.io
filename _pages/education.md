@@ -15,6 +15,8 @@ author_profile: true
 - **Honors**: 
   - Vector Scholarship in AI (2024-2025)
 
+<img src="../images/ut.png" alt="ut" width="100">
+
 ---------------
 
 ## Huazhong University of Science and Technology
@@ -29,3 +31,5 @@ author_profile: true
   - Merit Student in (2022-2023, 2021-2022, 2020-2021)
   - Scholarship for Academic Excellence (2020-2021)
   - Jin Yugang & Lu Lanying Scholarship (2023)
+ 
+<img src="../images/hust.png" alt="hust" width="100">
