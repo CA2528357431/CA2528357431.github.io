@@ -10,10 +10,10 @@ main:
     url: /cv/  
   
   - title: "Education"
-    url: /Education/
+    url: /education/
 
   - title: "Experience"
-    url: /Experience/
+    url: /experience/
   
   - title: "Publications"
     url: /publications/
