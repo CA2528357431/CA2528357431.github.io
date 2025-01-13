@@ -15,7 +15,7 @@ author_profile: true
 - **Honors**: 
   - Vector Scholarship in AI (2024-2025)
 
-<img src="../images/ut.png" alt="ut" height="80">
+<img src="../images/ut.png" alt="ut" width="250">
 
 ---------------
 
@@ -32,4 +32,4 @@ author_profile: true
   - Scholarship for Academic Excellence (2020-2021)
   - Jin Yugang & Lu Lanying Scholarship (2023)
  
-<img src="../images/hust.png" alt="hust" height="80">
+<img src="../images/hust.png" alt="hust" width="150">
