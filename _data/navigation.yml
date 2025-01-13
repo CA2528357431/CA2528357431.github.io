@@ -7,16 +7,16 @@
 main:
 
   - title: "CV"
-    url: /cv/
+    url: /cv/  
+  
+  - title: "Education"
+    url: /Education/
 
   - title: "Experience"
     url: /Experience/
   
   - title: "Publications"
     url: /publications/
-
-  - title: "Education"
-    url: /Education/
 
   - title: "Skills"
     url: /skills/
