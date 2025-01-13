@@ -37,8 +37,8 @@ author_profile: true
   - Designed a layering optimization to impose the appropriate transfer intensity according to the semantic relevance of different regions
   - Reduced the model scale so that it could run on a consumer device (RTX 2070 maxq)
 
-<img src="../images/lisa_1.png" alt="Image 1" height="500px">
-<img src="../images/lisa_2.png" alt="Image 2" height="300px">
-<img src="../images/lisa_3.png" alt="Image 3" height="150px">
-<img src="../images/lisa_4.png" alt="Image 4" height="300px">
-<img src="../images/lisa_5.png" alt="Image 5" height="300px">
+<img src="../images/lisa_1.png" alt="Image 1" height="300px">
+<img src="../images/lisa_2.png" alt="Image 2" height="150px">
+<img src="../images/lisa_3.png" alt="Image 3" height="50px">
+<img src="../images/lisa_4.png" alt="Image 4" height="150px">
+<img src="../images/lisa_5.png" alt="Image 5" height="150px">
