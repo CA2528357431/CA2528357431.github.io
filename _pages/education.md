@@ -8,8 +8,11 @@ author_profile: true
 --------------
 
 ## University of Toronto
+
 **Toronto, Ontario, Canada**
+
 **2024.09 - 2025.12**
+
 - **Degree**: Master of Science
 - **Major**: Applied Computing - AI concentration
 - **Honors**: 
@@ -20,8 +23,11 @@ author_profile: true
 ---------------
 
 ## Huazhong University of Science and Technology
+
 **Wuhan, Hubei, China**
+
 **2020.09 - 2024.06**
+
 - **Degree**: Bachelor of Engineering
 - **Major**: Software Engineering - AI track
 - **Honors**: 
