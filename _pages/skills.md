@@ -52,5 +52,6 @@ author_profile: true
 ## Computer Science
   - Software Engineering
   - Algorithm
+  - Data Structure
   - Object-oriented Programming
 
