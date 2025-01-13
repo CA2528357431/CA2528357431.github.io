@@ -11,7 +11,7 @@ author_profile: true
 
 **Toronto, Ontario, Canada** 
 
-<img src="../images/vector.png" alt="hust" width="150">
+<img src="../images/vector.png" alt="vector" width="150">
 
 ## **Title: Machine Learning Associate**
 
