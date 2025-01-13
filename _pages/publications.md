@@ -19,6 +19,7 @@ author_profile: true
   - Incorporated an adaptive patch masking mechanism to focus on semantically important area of input images
   - Introduced a student-teacher framework to improve the learning capability, reaching 14.32 in MSE and 39.96 in PSNR
 
+<img src="../images/diff.png" alt="diff">
 
 
 ---------------
@@ -37,4 +38,4 @@ author_profile: true
   - Designed a layering optimization to impose the appropriate transfer intensity according to the semantic relevance of different regions
   - Reduced the model scale so that it could run on a consumer device (RTX 2070 maxq)
 
-<img src="../images/lisa.png" alt="Image 1">
+<img src="../images/lisa.png" alt="lisa">
