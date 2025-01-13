@@ -10,6 +10,7 @@ author_profile: true
 
 
 ## Artificial Intelligence & Machine Learning
+
 ### Functional
   - Machine Learning
   - Deep Learning
@@ -18,6 +19,7 @@ author_profile: true
   - LLMs
   - Diffusion Model
   - Transformer
+
 ### Tools
   - Pytorch
   - Numpy
@@ -26,9 +28,11 @@ author_profile: true
   - OpenAI
 
 ## Data Management
+
 ### Functional
   - Vector Database
   - Relational Database
+
 ### Tools
   - MongoDB
   - PostgreSQL
@@ -44,8 +48,6 @@ author_profile: true
 ## Web Frameworks:
   - Flask
   - FastAPI
-
-
 
 ## Computer Science
   - Software Engineering
