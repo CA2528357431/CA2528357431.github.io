@@ -11,7 +11,7 @@ redirect_from:
 
 This is An Cao. 
 
-I am currently pursuing a Master of Science in Applied Computing (MScAC) with a concentration on Artificial Intelligence at the University of Toronto, where I am honored to be supported by the Vector Scholarship in AI.
+I am a graduate student of Master of Science in Applied Computing (MScAC) with a concentration on Artificial Intelligence at the University of Toronto, where I am honored to be supported by the Vector Scholarship in AI.
 
 At present, I am interning as a Machine Learning Associate at the Vector Institute. My first project involved developing an Conversational Audience Builder for the Synthetic Society of Arima. The retrieval agent fetches relevant features from the synthetic society based on audience profiles created during users' interactions with our guiding chatbot and offers clarifications for each suggested feature about the meaning of this feature and its connection with users' audience profiles. I am currently working on another project, DiligenceGPT, in collaboration with StartupFuel, which aims at generating draft diligence report and accelerating the workflow of the due diligence process by both structured and unstructured data.
 
