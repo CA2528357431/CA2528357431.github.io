@@ -21,9 +21,9 @@ author_profile: true
 - **Duration**: 2025.01 - Present
 - **Keypoints**:
   - Developed a Data Retrieval module to extract information from structured and unstructured data in different formats
-  - Prototyped an AI-driven agent to output insights into the value of startups and draft due diligence reports
+  - Prototyped an AI-driven agent to provide consistent evaluation of startups and draft due diligence reports
+  - Created a de-identification mechanism to anonymize different types of private information within documents   
   - Engineered an interactive system to provide clarification, guide modifications to the draft report and collect feedback
-  - Created a Feedback-Adaptive mechanism to adjust model behavior dynamically according to users’ responses
 
 ### Project: Conversational Audience Builder for Synthetic Society
 
