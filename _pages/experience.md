@@ -11,7 +11,7 @@ author_profile: true
 
 **Toronto, Ontario, Canada** 
 
-<img src="../files/modiface.png" alt="vector" width="200">
+<img src="../MyFiles/modiface.png" alt="vector" width="200">
 
 ## **Title: Machine Learning Intern**
 
@@ -32,7 +32,7 @@ author_profile: true
 
 **Toronto, Ontario, Canada** 
 
-<img src="../files/vector.png" alt="vector" width="150">
+<img src="../MyFiles/vector.png" alt="vector" width="150">
 
 ## **Title: Machine Learning Associate**
 
@@ -64,7 +64,7 @@ Interactively guide users to build their customer profiles through conversation,
 
 **Wuhan, Hubei, China** 
 
-<img src="../files/hust.png" alt="hust" width="100">
+<img src="../MyFiles/hust.png" alt="hust" width="100">
 
 ## **Title: Student Deep Learning Researcher**
 - **Duration**: 2021.09 - 2024.08
