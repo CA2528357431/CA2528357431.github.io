@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../images/hs.jpg"
+  avatar           : "../MyFiles/hs.jpg"
   name             : "An Cao"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning Associate @ Vector Institute | MScAC AI @ University of Toronto | Deep Learning researcher"
+  bio              : "Machine Learning Intern @ ModiFace | Ex Machine Learning Associate @ Vector Institute | MScAC AI @ University of Toronto | Deep Learning researcher"
   location         : "Toronto, Ontario, Canada"
   employer         : "University of Toronto"
   # uri              : "https://ca2528357431.github.io/" # URL
