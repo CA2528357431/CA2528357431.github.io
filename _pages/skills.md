@@ -15,16 +15,20 @@ author_profile: true
   - Machine Learning
   - Deep Learning
   - Computer Vision
+  - AI
   - NLP
   - LLMs
   - Diffusion Model
   - Transformer
+  - Embedding Model
+  - AI Agent
 
 ### Tools
   - Pytorch
   - Numpy
-  - Matplotlib
-  - Langchain
+  - LangChain
+  - LangGraph
+  - LangSmith
   - OpenAI
 
 ## Data Management
@@ -40,14 +44,18 @@ author_profile: true
   - Qdrant
   - Faiss
   - CogCache
+  - Big Query
 
-## Cloud Platforms
-  - Azure
+## Software Development
+  - RabbitMQ
+  - AWS Fargate
+  - Azure AI
   - Google Cloud Platform
-
-## Web Frameworks:
   - Flask
   - FastAPI
+  - Docker
+  - AWS ECR
+  - Github Action
 
 ## Computer Science
   - Software Engineering
