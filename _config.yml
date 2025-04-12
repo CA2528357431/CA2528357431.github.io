@@ -10,9 +10,9 @@
 locale                   : "Toronto, Ontario, Canada"
 title                    : "An Cao"
 title_separator          : "-"
-name                     : &name "An Cao's Personal Page"
-description              : &description "personal description"
-url                      : https://ca2528357431.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "An Cao's Personal Page"
+description              : "personal description"
+url                      : "https://ca2528357431.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
