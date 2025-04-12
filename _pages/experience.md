@@ -25,7 +25,8 @@ author_profile: true
   - Designed smile simulation and glow analysis capabilities to provide personalized face enhancement recommendations.
   - Curated diverse image-text datasets to fine-tune the VLM, ensuring robust performance across varied beauty tasks.
 
-
+  
+  
 
 # Vector Institute
 
@@ -56,7 +57,8 @@ Interactively guide users to build their customer profiles through conversation,
   - Created a conversational agent for interactive customer profile building in the synthetic society
   - Prototyped a streaming backend on GCP to support real-time interaction between LLM outputs and users
 
-
+  
+  
 
 # Huazhong University of Science and Technology
 
