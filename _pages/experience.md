@@ -66,7 +66,7 @@ Interactively guide users to build their customer profiles through conversation,
 
 <img src="../MyFiles/hust.png" alt="hust" width="100">
 
-## **Title: Student Deep Learning Researcher**
+## **Title: Deep Learning Researcher**
 - **Duration**: 2021.09 - 2024.08
 - **Keypoints**:
   - Led a Deep Learning research group to coordinate and advance collaborative projects
