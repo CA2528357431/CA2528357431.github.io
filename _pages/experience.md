@@ -16,13 +16,13 @@ author_profile: true
 ## **Title: Machine Learning Intern**
 - **Duration**: 2025.05 - Present
 
-### Project: Adapting Vision Language Models to Execute Interactive and Explainable Beauty Tasks
-
+### Project: Selfie Foundational Model
+- **Intro**: A explainable multimodal Vision Language Model (VLM) for the beauty&health industry that provides user-tailored insights on the various skin concerns with skin concern masks as explainability signals upon receiving user queries
 - **Keypoints**: 
-  - Developed an interactive multimodal LLM for beauty/medical sector tasks, enabling user-tailored insights from selfies
-  - Integrated segmentation capabilities to enhance the multimodal LLM’s beauty analysis with explainable concern masks
-  - Incorporated the multimodal LLM to predict concerns with accuracy comparable to professional experts
-  - Built a multimodal dataset with LLMs for model training based of diverse formats and topics
+  - Developed an interactive multimodal VLM for beauty/medical sector tasks, enabling user-tailored insights from selfies
+  - Enabled the multimodal VLM to predict concerns with accuracy comparable to professional experts
+  - Integrated segmentation capabilities to enhance the explainability of the multimodal VLM with masks of skin concerns
+  - Built a multimodal dataset with LLMs and face landmark tracking models for training the VLM based on selfie images
  
 
 # Vector Institute
@@ -35,13 +35,13 @@ author_profile: true
 - **Duration**: 2024.09 - 2025.05
 - **Keypoints**:
   - Delivered comprehensive hands-on technical support to the development of Agentic AI projects
-  - Contributed to the system design process for LLM-driven product solutions.
+  - Contributed to the system design process for LLM-driven product solutions
 
 ## **Title: Machine Learning Associate**
 - **Duration**: 2024.09 - 2025.05
 
 ### Project: DiligenceGPT
-Ingest multi-modal information from multiple formats and provide high-quality due diligence consistently with reliable data sources.
+- **Intro**: An AI-powered due diligence system that ingests multi-modal information from multiple formats and provides high-quality evaluation and analysis consistently with reliable data sources.
 - **Keypoints**:
   - Created a multimodal data ingestion system to organize information from 1000 unstructured data sources
   - Built an AI due diligence system that offers consistent quantitative evaluations and in-depth analysis
@@ -50,7 +50,7 @@ Ingest multi-modal information from multiple formats and provide high-quality du
   - Facilitated large-scale and asynchronous AI services to smooth demand peaks
 
 ### Project: Conversational Audience Builder for Synthetic Society
-Interactively guide users to build their customer profiles through conversation, and provide suggestions of attributes and values in the synthetic society
+- **Intro**: An LLM-driven data analysis agent that interactively guides users to build their customer profiles through conversation, and provides suggestions of attributes and values in the synthetic society
 - **Keypoints**:
   - Developed a dynamic vector search system with query decomposition, boosting attribute retrieval recall to 89%
   - Implemented a Reranking&Validation module to enhance LLM output consistency and stability
