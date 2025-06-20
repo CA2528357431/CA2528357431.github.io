@@ -19,14 +19,11 @@ author_profile: true
 ### Project: Adapting Vision Language Models to Execute Interactive and Explainable Beauty Tasks
 - **Duration**: 2025.05 - Present
 - **Keypoints**: 
-  - Developed an interactive VLM system for beauty sector tasks, enabling user-tailored insights from selfie images
-  - Integrated face landmark detection and segmentation to enhance VLM outputs with explainable beauty analysis
-  - Implemented acne scoring with heat-map visualizations to justify system ratings upon user queries.
-  - Designed smile simulation and glow analysis capabilities to provide personalized face enhancement recommendations.
-  - Curated diverse image-text datasets to fine-tune the VLM, ensuring robust performance across varied beauty tasks.
-
-  
-  
+  - Developed an interactive multimodal LLM for beauty/medical sector tasks, enabling user-tailored insights from selfies
+  - Integrated segmentation capabilities to enhance the multimodal LLM’s beauty analysis with explainable concern masks
+  - Incorporated the multimodal LLM to predict concerns with accuracy comparable to professional experts
+  - Built a multimodal dataset with LLMs for model training based of diverse formats and topics
+ 
 
 # Vector Institute
 
@@ -34,23 +31,26 @@ author_profile: true
 
 <img src="../MyFiles/vector.png" alt="vector" width="150">
 
-## **Title: Machine Learning Associate**
+## **Title: Technical Assistant**
+- **Duration**: 2024.09 - 2025.05
+- **Keypoints**:
+  - Delivered comprehensive hands-on technical support to the development of Agentic AI projects
+  - Contributed to the system design process for LLM-driven product solutions.
 
+## **Title: Machine Learning Associate**
+- **Duration**: 2024.09 - 2025.05
 
 ### Project: DiligenceGPT
 Ingest multi-modal information from multiple formats and provide high-quality due diligence consistently with reliable data sources.
-- **Duration**: 2025.01 - 2025.05
 - **Keypoints**:
-  - Created a data ingestion system to organize multi-modal information from unstructured documents and Internet
-  - Built an agent to offer business insights from the company’s website and suggest key internal/external webpages 
-  - Developed a RAG-based chatbot for real-time user Q&A with sourced answers from a vector database 
-  - Implemented an agent for due diligence, offering consistent quantitative startup evaluations and in-depth analysis 
-  - Leveraged RabbitMQ to facilitates asynchronous communication between services and smooth demand peaks 
-  - Automated deployment of the multi-service AI system on AWS Fargate using GitHub Actions
+  - Created a multimodal data ingestion system to organize information from 1000 unstructured data sources
+  - Built an AI due diligence system that offers consistent quantitative evaluations and in-depth analysis
+  - Developed a RAG-based chatbot for instant Q&A with sourced answers from a vector database
+  - Implemented an AI agent to provide minute-level real-time business insights from dynamic data sources
+  - Facilitated large-scale and asynchronous AI services to smooth demand peaks
 
 ### Project: Conversational Audience Builder for Synthetic Society
 Interactively guide users to build their customer profiles through conversation, and provide suggestions of attributes and values in the synthetic society
-- **Duration**: 2024.09 - 2024.12
 - **Keypoints**:
   - Developed a dynamic vector search system with query decomposition, boosting attribute retrieval recall to 89%
   - Implemented a Reranking&Validation module to enhance LLM output consistency and stability
