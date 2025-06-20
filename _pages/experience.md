@@ -14,10 +14,10 @@ author_profile: true
 <img src="../MyFiles/modiface.png" alt="vector" width="200">
 
 ## **Title: Machine Learning Intern**
-
+- **Duration**: 2025.05 - Present
 
 ### Project: Adapting Vision Language Models to Execute Interactive and Explainable Beauty Tasks
-- **Duration**: 2025.05 - Present
+
 - **Keypoints**: 
   - Developed an interactive multimodal LLM for beauty/medical sector tasks, enabling user-tailored insights from selfies
   - Integrated segmentation capabilities to enhance the multimodal LLM’s beauty analysis with explainable concern masks
