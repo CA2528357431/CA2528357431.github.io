@@ -9,12 +9,11 @@ author_profile: true
 
 # ModiFace
 
-**Toronto, Ontario, Canada** 
-
 <img src="../MyFiles/modiface.png" alt="vector" width="200">
 
 ## **Title: Machine Learning Intern**
-- **Duration**: 2025.05 - Present
+- **Duration: 2025.05 - Present**
+- **Location: Toronto, Ontario, Canada** 
 
 ### Project: Selfie Foundational Model
 - **Intro**: A explainable multimodal Vision Language Model (VLM) for the beauty&health industry that provides user-tailored insights on the various skin concerns with skin concern masks as explainability signals upon receiving user queries
@@ -27,18 +26,18 @@ author_profile: true
 
 # Vector Institute
 
-**Toronto, Ontario, Canada** 
-
 <img src="../MyFiles/vector.png" alt="vector" width="150">
 
 ## **Title: Technical Assistant**
-- **Duration**: 2024.09 - 2025.05
+- **Duration: 2025.07 - 2025.09**
+- **Location: Toronto, Ontario, Canada** 
 - **Keypoints**:
   - Delivered comprehensive hands-on technical support to the development of Agentic AI projects
   - Contributed to the system design process for LLM-driven product solutions
 
 ## **Title: Machine Learning Associate**
-- **Duration**: 2024.09 - 2025.05
+- **Duration: 2024.09 - 2025.05**
+- **Location: Toronto, Ontario, Canada** 
 
 ### Project: DiligenceGPT
 - **Intro**: An AI-powered due diligence system that ingests multi-modal information from multiple formats and provides high-quality evaluation and analysis consistently with reliable data sources.
@@ -62,12 +61,11 @@ author_profile: true
 
 # Huazhong University of Science and Technology
 
-**Wuhan, Hubei, China** 
-
 <img src="../MyFiles/hust.png" alt="hust" width="100">
 
 ## **Title: Deep Learning Researcher**
-- **Duration**: 2021.09 - 2024.08
+- **Duration: 2021.09 - 2024.08**
+- **Location: Wuhan, Hubei, China** 
 - **Keypoints**:
   - Led a Deep Learning research group to coordinate and advance collaborative projects
   - Established a software engineering paradigm for streamlined deep learning model development
