@@ -46,4 +46,12 @@ author_profile: true
  - Audio Flamingo
 
 ## Tools, Infra & Deployment: 
-GCP, Azure, Pinecone, MongoDB, PostgreSQL, BigQuery, Docker, FastAPI, Flask
+ - GCP
+ - Azure
+ - Pinecone
+ - MongoDB
+ - PostgreSQL
+ - BigQuery
+ - Docker
+ - FastAPI
+ - Flask
