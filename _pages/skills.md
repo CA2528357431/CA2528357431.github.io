@@ -8,59 +8,42 @@ author_profile: true
 --------------
 
 
+## Language & ML Frameworks: 
+ - Python
+ - Pytorch
+ - HuggingFace
+ - DeepSpeed
+ - MLflow
+ - Langchain
+ - OpenAI
+ - Numpy
 
-## Artificial Intelligence & Machine Learning
+## ML Techniques: 
+ - Vision-Language Models
+ - Multi-Modal Learning
+ - LLM Finetuning
+ - Segmentation
+ - Audio-Language Models
+ - Explainable AI
+ - Data Augmentation
+ - Computer Vision
+ - LLMs
+ - RAG
+ - Embedding Models
+ - Vector Database
 
-### Functional
-  - Machine Learning
-  - Deep Learning
-  - Computer Vision
-  - AI
-  - NLP
-  - LLMs
-  - Diffusion Model
-  - Transformer
-  - Embedding Model
-  - AI Agent
+## Models: 
+ - LLaMa
+ - LLaVa
+ - Transformer
+ - BERT
+ - LoRA
+ - SAM
+ - Unet
+ - CLIP
+ - Diffusion
+ - ViT
+ - Audio Flamingo
 
-### Tools
-  - Pytorch
-  - Numpy
-  - LangChain
-  - LangGraph
-  - LangSmith
-  - OpenAI
-
-## Data Management
-
-### Functional
-  - Vector Database
-  - Relational Database
-
-### Tools
-  - MongoDB
-  - PostgreSQL
-  - Pinecone
-  - Qdrant
-  - Faiss
-  - CogCache
-  - Big Query
-
-## Software Development
-  - RabbitMQ
-  - AWS Fargate
-  - Azure AI
-  - Google Cloud Platform
-  - Flask
-  - FastAPI
-  - Docker
-  - AWS ECR
-  - Github Action
-
-## Computer Science
-  - Software Engineering
-  - Algorithm
-  - Data Structure
-  - Object-oriented Programming
-  - Agile Development
-
+## Tools, Infra & Deployment: 
+GCP, Azure, Pinecone, MongoDB, PostgreSQL, BigQuery, Docker, FastAPI, Flask
