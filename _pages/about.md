@@ -11,7 +11,7 @@ redirect_from:
 
 I am An Cao, an AI engineer passionate about advancing machine learning through innovative research and practical applications.
 
-Currently, I am pursuing an MSc in Applied Computing (AI concentration) at University of Toronto, where I am a Vector Scholarship in AI recipient. Meanwhile, I am working as a Machine Learning Intern at ModiFace, developing an explainable Vision Language Model for multimodal beauty tasks. Moreover, I am serving as a Technical Assistant at Vector Institute to provide hands-on support to the development of Agentic AI and Multi-modal AI solutions.
+Currently, I am pursuing an MSc in Applied Computing (AI concentration) at University of Toronto, where I am a Vector Scholarship in AI recipient. Meanwhile, I am working as a Machine Learning Intern at ModiFace, developing an explainable Vision Language Model for multimodal beauty tasks. Moreover, I am serving as an AI Technical Specialist at Vector Institute to provide hands-on support to the development of Agentic AI and Multi-modal AI solutions.
 
 As a Machine Learning Associate at the Vector Institute from 2024 to 2025, I built a Conversational Audience Builder to enable users organize their customer profiles in Arima’s Synthetic Society. Moreover, I also worked on DiligenceGPT, offering investors reliable due diligence from multimodal data from different sources.
 
