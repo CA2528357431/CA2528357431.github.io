@@ -13,21 +13,20 @@ author_profile: true
  - Pytorch
  - HuggingFace
  - DeepSpeed
- - MLflow
  - Langchain
  - OpenAI
- - Numpy
+ - Vertex AI
+ - MLflow
 
 ## ML Techniques: 
- - Vision-Language Models
  - Multi-Modal Learning
+ - Vision-Language Models
+ - Audio-Language Models
  - LLM Finetuning
  - Segmentation
- - Audio-Language Models
  - Explainable AI
  - Data Augmentation
  - Computer Vision
- - LLMs
  - RAG
  - Embedding Models
  - Vector Database
@@ -35,6 +34,7 @@ author_profile: true
 ## Models: 
  - LLaMa
  - LLaVa
+ - Qwen
  - Transformer
  - BERT
  - LoRA
