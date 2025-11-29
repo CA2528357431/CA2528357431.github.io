@@ -55,3 +55,4 @@ author_profile: true
  - Docker
  - FastAPI
  - Flask
+ - DVC
