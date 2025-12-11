@@ -12,19 +12,19 @@ author_profile: true
 <img src="../MyFiles/modiface.png" alt="vector" width="200">
 
 ## **Title: Machine Learning Intern**
-- **Duration: 2025.05 - Present**
+- **Duration: 2025.05 - 2025.12**
 - **Location: Toronto, Ontario, Canada** 
 
 ### Project: Digital Dermatologist: Foundational Explainable Vision-Language Model for Skin Health
 - **Intro**: A explainable multimodal Vision Language Model (VLM) for the beauty&health industry that provides user-tailored insights on the various skin concerns with skin concern segmentation masks as explainable signals in conversations
 - **Keypoints**: 
-  - Integrated SAM to multi-modal LLaMa to deliver text insights with segmentation masks to deliver its explainability
-  - Performed multi-modal alignment on LLaMA and ViT, enabling the model to digest medical text and images
-  - Applied LoRA to finetune the model for medical tasks, reaching 52% segmentation IoU and 0.15 text Cross Entropy
-  - Leveraged Semi-Supervised learning to finetune the model on partially annotated and modal-incomplete datasets
-  - Employed LLMs and Unet for data augmentation, expending dataset by 3 times and imputing 2 absent modalities
-  - Utilized contrastive learning to finetune an embedding model, enabling product recommendations from skin analysis
- 
+  - Employed LLMs and Unet for data augmentation, expending dataset by 15 times and imputing 2 absent modalities
+  - Merged SAM with LLaMa to deliver insights paired with segmentation masks for visually explainable dermatology
+  - Aligned VLM and segmentation outputs to deliver traceable visual–textual evidence for dermatology insights
+  - Improved medical analysis accuracy and coverage by 31% over the previous best model through LoRA finetuning
+  - Boosted skin concern segmentation performance by 23% on IoU above specialized segmentation models
+  - Applied semi-supervised learning to exploit partial and modality-incomplete data for skin health tasks
+  - Utilized contrastive learning to finetune an embedding model, enabling chat-based product recommendations
 
 # Vector Institute
 
@@ -34,9 +34,9 @@ author_profile: true
 - **Duration: 2025.07 - Present**
 - **Location: Toronto, Ontario, Canada** 
 - **Keypoints**:
-  - Incorporated Audio Flamingo and a vector database into an audio-text RAG system as a healthcare voice assistant
-  - Led a RAG system optimized for live tabular stock market data, achieving 85% recall in relevant stock retrieval
-  - Designed a multi-agent system to detect inconsistent datapoints, attaining 76% accuracy in Anti-Money Laundering
+  - Integrated Qwen multi-modal LLM into audio-text RAG system for real-time voice-based grounded health insights
+  - Led a RAG system optimized for live tabular stock data, matching human performance with 85% retrieval recall
+  - Designed a multi-agent system for Anti-Money Laundering, attaining 76% accuracy in detecting info inconsistencies
 
 ## **Title: Machine Learning Associate**
 - **Duration: 2024.09 - 2025.05**
@@ -45,19 +45,18 @@ author_profile: true
 ### Project: DiligenceGPT
 - **Intro**: An AI-powered due diligence system that ingests multi-modal information from multiple formats and provides consistent evaluation and insightful analysis in real-time, based on unstructured documents and live data sources.
 - **Keypoints**:
-  - Applied multi-modal LLMs to fuse images and texts, structuring data from uncurated documents with 89% coverage
-  - Built a RAG agent with a vector database and minute-level live data sources, providing real-time traceable insights
-  - Combined Neural Networks and LLMs to quantitatively evaluate companies with analysis, reaching 97% consistency
+  - Applied multi-modal LLMs to extract finance data from uncurated & unstructured documents with 89% coverage
+  - Built a real-time RAG agent with vector search and minute-level live data, providing traceable response generation
+  - Designed a LLM + Neural Network quantitative evaluator with 97% consistency, exceeding human expert performance
   - Orchestrated async model deployment to parallelize inference, reducing response latency by 70% on average
 
 ### Project: Conversational Audience Builder for Synthetic Society
 - **Intro**: An LLM-driven data analysis agent that interactively guides users to build their customer profiles through conversation, and provides suggestions of attributes and values in the synthetic society
 - **Keypoints**:
-  - Created a RAG agent that analyzes database schema to suggest attributes in dialogues, speeding up customer defining
-  - Finetuned the embedding model using contrastive learning, improving retrieval recall to 89% in the vector database
-  - Utilized LLMs to decouple inputs into atomic queries, achieving 82% question-wise attribute recommendation coverage
-  - Implemented a async streaming backend with FastAPI to maintain low-latency responses under concurrent user loads
-
+  - Created a conversational RAG agent that suggests relevant database values, accelerating complex query formulation
+  - Leveraged LLMs to decompose complex requests into atomic sub-queries, ensuring retrieval covers all specified objects
+  - Solved semantic retrieval bottlenecks by fine-tuning the embedding model, achieving a 49% improvement in recall
+  - Implemented an async streaming backend with FastAPI to maintain low-latency responses under concurrent user loads
   
 # Huazhong University of Science and Technology
 
@@ -68,5 +67,5 @@ author_profile: true
 - **Location: Wuhan, Hubei, China** 
 - **Keypoints**:
   - Built Diff-STAR, a Student-Teacher model combining Diffusion and ViT, achieving SOTA in image harmonization
-  - Proposed LisaCLIP, a zero-shot text-driven model, enhancing image manipulation precision via adaptive optimization
+  - Proposed LisaCLIP, a zero-shot text-driven adaptive model, enabling image manipulation using text without training
   - Collaborated on Virtual Try-On and Street Semantic Segmentation projects, refining models and doing ablation studies

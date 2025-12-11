@@ -14,22 +14,27 @@ author_profile: true
  - HuggingFace
  - DeepSpeed
  - Langchain
+ - LangGraph
  - OpenAI
  - Vertex AI
- - MLflow
 
 ## ML Techniques: 
- - Multi-Modal Learning
- - Vision-Language Models
- - Audio-Language Models
- - LLM Finetuning
- - Segmentation
+ - Multi-Modal AI
+ - Vision-Language Model
+ - Audio-Language Model
+ - Image Segmentation
+ - Model Finetuning
+ - Model Deployment
+ - Multi-Agent System
+ - AI Agent
+ - RAG
+ - Embedding Model
+ - Vector Database
+ - Embedding Model
  - Explainable AI
  - Data Augmentation
  - Computer Vision
- - RAG
- - Embedding Models
- - Vector Database
+ - NLP
 
 ## Models: 
  - LLaMa
@@ -55,4 +60,6 @@ author_profile: true
  - Docker
  - FastAPI
  - Flask
+ - Django
+ - MLflow
  - DVC
