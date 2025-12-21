@@ -24,6 +24,7 @@ author_profile: true
  - Audio-Language Model
  - Image Segmentation
  - Model Finetuning
+ - Model Evaluation
  - Model Deployment
  - Multi-Agent System
  - AI Agent
