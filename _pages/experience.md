@@ -18,12 +18,12 @@ author_profile: true
 ### Project: Digital Dermatologist: Foundational Explainable Vision-Language Model for Skin Health
 - **Intro**: A explainable multimodal Vision Language Model (VLM) for the beauty&health industry that provides user-tailored insights on the various skin concerns with skin concern segmentation masks as explainable signals in conversations
 - **Keypoints**: 
-  - Employed LLMs and Unet for data augmentation, expending dataset by 15 times and imputing 2 absent modalities.
-  - Merged SAM with LLaMa to deliver insights paired with segmentation masks for visually explainable dermatology.
-  - Aligned VLM and segmentation outputs to deliver traceable visual–textual evidence for dermatology insights.
-  - Improved medical analysis accuracy and coverage by 31% over the previous best model through LoRA finetuning.
-  - Boosted skin concern segmentation performance by 23% on IoU above specialized segmentation models.
-  - Applied semi-supervised learning to exploit partial and modality-incomplete data for skin health tasks.
+  - Employed LLMs for data augmentation, expanding dataset by 15 times and imputing absent text modality.
+  - Applied semi-supervised learning to synthesize missing segmentation masks in partially annotated skin datasets.
+  - Integrated SAM with LLaMa for multimodal responses of medical text insights and skin concern segmentation masks.
+  - Aligned LLaMA embeddings and SAM to ground text insights in segmentation masks for visual explainability.
+  - Boosted diagnostic accuracy and coverage by 31% over SOTA via parallel quantized LoRA finetuning on 4 A100s.
+  - Achieved a 23% increase in IoU for skin concern segmentation, outperforming existing specialized models.
   - Utilized contrastive learning to finetune an embedding model, enabling chat-based product recommendations.
 
 # Vector Institute

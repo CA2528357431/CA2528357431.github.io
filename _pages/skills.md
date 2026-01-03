@@ -22,7 +22,9 @@ author_profile: true
  - Multi-Modal AI
  - Vision-Language Model
  - Audio-Language Model
+ - Semi-supervised Learning
  - Image Segmentation
+ - Parallel Training
  - Model Finetuning
  - Model Evaluation
  - Model Deployment
@@ -54,6 +56,9 @@ author_profile: true
 ## Tools, Infra & Deployment: 
  - GCP
  - Azure
+ - AWS
+ - MLflow
+ - DVC
  - Pinecone
  - MongoDB
  - PostgreSQL
@@ -62,5 +67,3 @@ author_profile: true
  - FastAPI
  - Flask
  - Django
- - MLflow
- - DVC

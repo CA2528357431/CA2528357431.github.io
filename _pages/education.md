@@ -13,7 +13,7 @@ author_profile: true
 
 **Toronto, Ontario, Canada**
 
-**2024.09 - 2025.12**
+**2024 - 2026**
 
 - **Degree**: Master of Science
 - **Major**: Applied Computing - AI concentration
@@ -30,7 +30,7 @@ author_profile: true
 
 **Wuhan, Hubei, China**
 
-**2020.09 - 2024.06**
+**2020 - 2024**
 
 - **Degree**: Bachelor of Engineering
 - **Major**: Software Engineering - AI track
