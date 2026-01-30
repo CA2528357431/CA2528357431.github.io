@@ -72,7 +72,7 @@ author_profile: true
   
 # Huazhong University of Science and Technology
 
-<img src="../MyFiles/hust.png" alt="hust" height="70">
+<img src="../MyFiles/hust.png" alt="hust" height="50">
 
 ## **Title: Deep Learning Research Assistant**
 - **Duration: Sep 2021 - Aug 2024**
