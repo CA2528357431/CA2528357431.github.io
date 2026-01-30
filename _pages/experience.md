@@ -11,7 +11,7 @@ author_profile: true
 
 <img src="../MyFiles/bmo.png" alt="bmo" height="40">
 
-## **Title: Machine Learning Intern**
+## **Title: Machine Learning Engineer**
 - **Duration: Feb 2026 - Present**
 - **Location: Toronto, Ontario, Canada** 
 
