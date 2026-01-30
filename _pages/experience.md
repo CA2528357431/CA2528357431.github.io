@@ -9,7 +9,7 @@ author_profile: true
 
 # BMO
 
-<img src="../MyFiles/bmo.png" alt="bmo" height="40">
+<img src="../MyFiles/bmo.png" alt="bmo" width="130">
 
 ## **Title: Machine Learning Engineer**
 - **Duration: Feb 2026 - Present**
@@ -23,7 +23,7 @@ author_profile: true
 
 # ModiFace
 
-<img src="../MyFiles/modiface.png" alt="modiface" height="80">
+<img src="../MyFiles/modiface.png" alt="modiface" width="200">
 
 ## **Title: Machine Learning Intern**
 - **Duration: May 2025 - Dec 2025**
@@ -41,7 +41,7 @@ author_profile: true
 
 # Vector Institute
 
-<img src="../MyFiles/vector.png" alt="vector" height="110">
+<img src="../MyFiles/vector.png" alt="vector" width="220">
 
 ## **Title: AI Technical Assistant**
 - **Duration: June 2025 – Jan 2026**
@@ -72,7 +72,7 @@ author_profile: true
   
 # Huazhong University of Science and Technology
 
-<img src="../MyFiles/hust.png" alt="hust" height="50">
+<img src="../MyFiles/hust.png" alt="hust" width="120">
 
 ## **Title: Deep Learning Research Assistant**
 - **Duration: Sep 2021 - Aug 2024**
