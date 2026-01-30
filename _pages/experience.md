@@ -9,7 +9,7 @@ author_profile: true
 
 # BMO
 
-<img src="../MyFiles/bmo.png" alt="bmo" width="400">
+<img src="../MyFiles/bmo.png" alt="bmo" width="140">
 
 ## **Title: Machine Learning Intern**
 - **Duration: Feb 2026 - Present**
