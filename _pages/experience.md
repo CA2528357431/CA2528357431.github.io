@@ -9,7 +9,7 @@ author_profile: true
 
 # BMO
 
-<img src="../MyFiles/bmo.png" alt="bmo" height="80">
+<img src="../MyFiles/bmo.png" alt="bmo" height="40">
 
 ## **Title: Machine Learning Intern**
 - **Duration: Feb 2026 - Present**
@@ -23,7 +23,7 @@ author_profile: true
 
 # ModiFace
 
-<img src="../MyFiles/modiface.png" alt="modiface" height="100">
+<img src="../MyFiles/modiface.png" alt="modiface" height="80">
 
 ## **Title: Machine Learning Intern**
 - **Duration: May 2025 - Dec 2025**
@@ -72,7 +72,7 @@ author_profile: true
   
 # Huazhong University of Science and Technology
 
-<img src="../MyFiles/hust.png" alt="hust" height="100">
+<img src="../MyFiles/hust.png" alt="hust" height="70">
 
 ## **Title: Deep Learning Research Assistant**
 - **Duration: Sep 2021 - Aug 2024**
