@@ -9,12 +9,12 @@ redirect_from:
 
 **Greetings, everyone!**
 
-I am An Cao, an AI engineer passionate about advancing machine learning through innovative research and practical applications.
+I am An Cao.
 
-Currently, I am pursuing an MSc in Applied Computing (AI concentration) at University of Toronto, where I am a Vector Scholarship in AI recipient. Meanwhile, I am working as a Machine Learning Intern at ModiFace, developing an explainable Vision Language Model for multimodal beauty tasks. Moreover, I am serving as an AI Technical Specialist at Vector Institute to provide hands-on support to the development of Agentic AI and Multi-modal AI solutions.
+I am an MLE at the BMO Digital Core AI team, where I develop and deploy robust, large-scale systems to solve real-world challenges. My work focuses on translating advanced models into reliable, production-ready solutions that deliver tangible value in complex enterprise environments.
 
-As a Machine Learning Associate at the Vector Institute from 2024 to 2025, I built a Conversational Audience Builder to enable users organize their customer profiles in Arima’s Synthetic Society. Moreover, I also worked on DiligenceGPT, offering investors reliable due diligence from multimodal data from different sources.
+I completed my MScAC AI concentreation at University of Toronto with Vector Scholarship in AI. During my studies, I completed my co-op at ModiFace L'Oreal AI Lab, where I worked on explainable vision–language models for multimodal medical and beauty applications. I also worked at the Vector Institute as an AI Technical Specialist and ML Associate, contributing to agentic and multimodal solutions for the fintech and healthcare industries.
 
-I graduated with a Bachelor’s in Software Engineering from HUST in 2024 with a GPA of 3.96/4.0, earning the Outstanding Undergraduate Student award. With three years of deep learning research, I led projects on zero-shot image manipulation and high-performance image harmonization, resulting in two first-author papers (IJCNN oral and IMAVIS SCI Q1).
+I earned my BEng in Software Engineering from Huazhong University of Science and Technology, graduating as an Outstanding Undergraduate Student. Over three years of research experience in the lab, I led projects in multimodal systems and computer vision, publishing two first-author papers.
 
-Looking ahead, I am committed to pushing the boundaries of machine learning to create solutions that advance technology and deliver societal impact.
+Looking ahead, I am driven to push the boundaries of intelligent systems by building scalable, high-impact technologies that balance performance, reliability, and meaningful societal benefit.
