@@ -9,7 +9,7 @@ author_profile: true
 
 # BMO
 
-<img src="../MyFiles/bmo.png" alt="bmo" width="160">
+<img src="../MyFiles/bmo.png" alt="bmo" width="200">
 
 ## **Title: Machine Learning Engineer**
 - **Duration: Feb 2026 - Present**
@@ -23,7 +23,7 @@ author_profile: true
 
 # ModiFace
 
-<img src="../MyFiles/modiface.png" alt="modiface" width="220">
+<img src="../MyFiles/modiface.png" alt="modiface" width="270">
 
 ## **Title: Machine Learning Intern**
 - **Duration: May 2025 - Dec 2025**
