@@ -9,7 +9,7 @@ author_profile: true
 
 ## University of Toronto
 
-<img src="../MyFiles/ut.png" alt="ut" width="150">
+<img src="../MyFiles/ut.png" alt="ut" width="200">
 
 **Toronto, Ontario, Canada**
 
@@ -26,7 +26,7 @@ author_profile: true
 
 ## Huazhong University of Science and Technology
 
-<img src="../MyFiles/hust.png" alt="hust" width="100">
+<img src="../MyFiles/hust.png" alt="hust" width="135">
 
 **Wuhan, Hubei, China**
 

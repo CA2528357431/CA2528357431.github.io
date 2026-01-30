@@ -24,9 +24,9 @@ author:
   avatar           : "../MyFiles/hs.jpg"
   name             : "An Cao"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning Intern @ ModiFace | Ex Machine Learning Associate @ Vector Institute | MScAC AI @ University of Toronto | Deep Learning Researcher"
+  bio              : "MLE @ BMO | Ex-AI Technical Specialist @ Vector Institute | MScAC-AI @ University of Toronto"
   location         : "Toronto, Ontario, Canada"
-  employer         : "ModiFace"
+  employer         : "BMO"
   # uri              : "https://ca2528357431.github.io/" # URL
   email            : "an.cao.link@gmail.com"
 
