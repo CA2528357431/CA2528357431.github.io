@@ -9,7 +9,7 @@ author_profile: true
 
 # BMO
 
-<img src="../MyFiles/bmo.png" alt="bmo" width="13">
+<img src="../MyFiles/bmo.png" alt="bmo" width="130">
 
 ## **Title: Machine Learning Engineer**
 - **Duration: Feb 2026 - Present**
