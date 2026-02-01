@@ -21,7 +21,7 @@ author_profile: true
   - To be continued.
 
 
-# ModiFace
+# ModiFace (L'Oreal AI)
 
 <img src="../MyFiles/modiface.png" alt="modiface" width="270">
 
